@@ -2,6 +2,8 @@
 
 An interactive application that combines Meta AI's Segment Anything Model (SAM) with OpenCV's template matching for object detection and segmentation.
 
+![SAM Template Matching Demo](ScrShot_34.png)
+
 ## Overview
 
 This application allows users to:
